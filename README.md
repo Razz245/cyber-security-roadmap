@@ -35,8 +35,7 @@
 - Windows & Linux privilege management  
 - Shell scripting basics  
 
-🧰 **Tools:**
-Wireshark · Nmap · Netcat · tcpdump  
+🧰 **Tools:** Wireshark · Nmap · Netcat · tcpdump  
 
 💡 **Labs:**
 - Packet capture in Wireshark  
@@ -52,8 +51,7 @@ Wireshark · Nmap · Netcat · tcpdump
 - Vulnerability Scanning  
 - Exploitation Basics  
 
-🧰 **Tools:**
-Metasploit · Burp Suite · SQLmap · Nikto · Hydra  
+🧰 **Tools:** Metasploit · Burp Suite · SQLmap · Nikto · Hydra  
 
 🧪 **Labs:**
 - Exploit DVWA / bWAPP  
@@ -69,8 +67,7 @@ Metasploit · Burp Suite · SQLmap · Nikto · Hydra
 - Cookie & Session management  
 - Web interception, Bug bounty workflow  
 
-🧰 **Tools:**
-Burp Suite · OWASP ZAP · Subfinder · Amass · ffuf  
+🧰 **Tools:** Burp Suite · OWASP ZAP · Subfinder · Amass · ffuf  
 
 🧪 **Labs:**
 - TryHackMe: OWASP Top 10  
@@ -89,8 +86,7 @@ Burp Suite · OWASP ZAP · Subfinder · Amass · ffuf
 - Digital Forensics & Incident Response (DFIR)  
 - SIEM, SOC Operations  
 
-🧰 **Tools:**
-BloodHound · Mimikatz · Volatility · Sysmon · Wireshark (Advanced)  
+🧰 **Tools:** BloodHound · Mimikatz · Volatility · Sysmon · Wireshark (Advanced)
 
 ---
 
